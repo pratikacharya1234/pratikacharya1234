@@ -6,7 +6,7 @@
 I am a passionate **Full Stack Developer** with experience in front-end and back-end technologies. I specialize in **HTML, CSS, JavaScript, C, Python**, and modern frameworks like **React and Tailwind CSS**. I am continuously learning and improving to build efficient, scalable, and user-friendly applications.
 
 ## 🚀 Project Overview
-This repository serves as a comprehensive solution for [briefly describe the primary objective of your project]. Designed with efficiency and scalability in mind, it offers an intuitive interface and robust functionality to cater to a wide audience.
+Designed with efficiency and scalability in mind, it offers an intuitive interface and robust functionality to cater to a wide audience.
 
 ## 🛠️ Tech Stack
 
