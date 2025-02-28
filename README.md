@@ -13,7 +13,7 @@ Designed with efficiency and scalability in mind, it offers an intuitive interfa
 
 - **Front-End**: HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Back-End**: Python, C  
-- **Tools & Platforms**: Git, GitHub, VS Code, Node.js  
+- **Tools & Platforms**: Git, GitHub, VS Code, Node.js, Vercel, Appwrite, Supabase  
 
 
 
