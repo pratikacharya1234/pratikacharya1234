@@ -33,4 +33,4 @@ For any inquiries or collaboration opportunities, feel free to reach out:
 
 [Email](mailto:pratikself@gmail.com) [LinkedIn](https://linkedin.com/in/yourprofile) [Twitter](https://twitter.com/yourhandle)
 
-I appreciate your support and contributions! 🚀
+I appreciate your support and contributions! 
