@@ -31,6 +31,6 @@ This project is distributed under the MIT License. For more details, refer to th
 ## 📬 Contact Information
 For any inquiries or collaboration opportunities, feel free to reach out:
 
-[Email](mailto:pratikself@gmail.com) [LinkedIn](https://linkedin.com/in/yourprofile) [Twitter](https://twitter.com/yourhandle)
+[Email](mailto:pratikself@gmail.com) [LinkedIn](https://linkedin.com/in/yourprofile) 
 
 I appreciate your support and contributions! 
