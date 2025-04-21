@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=1000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=%3E%3E+SYSTEM+BREACH+INITIATED;%3E%3E+ACCESSING+MAIN+TERMINAL..." alt="System Breach" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=1000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=%3E%3E+SYSTEM+BREACH+INITIATED;%3E%3E+ACCESSING+ALTER+MAINFRAME..." alt="System Breach" />
 </div>
 
 <div align="center">
@@ -21,8 +21,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+RUNNING+SYSTEM+DIAGNOSTICS..." alt="System Diagnostics" />
 
 ```css
-> shell_access --secure --user="root" --target="profile"
-> executing command...
+root@ALTER:~# sudo -i
+[sudo] password for root: ********
+ALTER:~# shell_access --secure --user="root" --target="profile"
+ALTER:~# executing command...
 
 [~] Initializing secure shell...
 [~] Bypassing security protocols...
@@ -30,50 +32,50 @@
 [~] Decrypting user profile...
 [+] Shell access granted!
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  USER IDENTIFIED: PRATIK ACHARYA                                             ║
-║  STATUS: ACTIVE                                                              ║
-║  SECURITY CLEARANCE: LEVEL 5                                                 ║
-║  LOCATION: [DATA ENCRYPTED]                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║  USER IDENTIFIED: PRATIK ACHARYA                                      ║
+║  STATUS: ACTIVE                                                       ║
+║  SECURITY CLEARANCE: ROOT ACCESS                                      ║
+║  LOCATION: [REDACTED]                                                 ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+RETRIEVING+TECHNICAL+ARSENAL..." alt="Tech Arsenal" />
 
-```yaml
-> cat technical_capabilities.yml
+```bash
+ALTER:~# cat /usr/share/technical_profile.txt
 
-SYSTEM CAPABILITIES:
-  LANGUAGES:
-    - JavaScript [■■■■■■■■■■] 100%
-    - Python     [■■■■■■■■■□] 90%
-    - Java       [■■■■■■■□□□] 70%
-    - C++        [■■■■■■□□□□] 60%
-    - HTML/CSS   [■■■■■■■■■■] 100%
-  
-  FRAMEWORKS:
-    - React.js   [■■■■■■■■■□] 90%
-    - Node.js    [■■■■■■■■■□] 90%
-    - Express    [■■■■■■■■□□] 80%
-    - Django     [■■■■■■□□□□] 60%
-    - TailwindCSS[■■■■■■■■■■] 100%
-  
-  DATABASES:
-    - MongoDB    [■■■■■■■■□□] 80%
-    - MySQL      [■■■■■■■□□□] 70%
-    - PostgreSQL [■■■■■■□□□□] 60%
-    - Firebase   [■■■■■■■■□□] 80%
-  
-  TOOLS:
-    - Git        [■■■■■■■■■□] 90%
-    - Docker     [■■■■■■■□□□] 70%
-    - AWS        [■■■■■■□□□□] 60%
-    - Linux      [■■■■■■■■□□] 80%
-  
-  SECURITY:
-    - Web Security         [■■■■■■■■■□] 90%
-    - Penetration Testing  [■■■■■■■□□□] 70%
-    - Network Security     [■■■■■■□□□□] 60%
+┌─[LANGUAGES]
+├── JavaScript
+├── Python
+├── Java
+├── C++
+└── HTML/CSS
+
+┌─[FRAMEWORKS]
+├── React.js
+├── Node.js
+├── Express
+├── Django
+└── TailwindCSS
+
+┌─[DATABASES]
+├── MongoDB
+├── MySQL
+├── PostgreSQL
+└── Firebase
+
+┌─[TOOLS]
+├── Git
+├── Docker
+├── AWS
+└── Linux
+
+┌─[SECURITY]
+├── Web Penetration Testing
+├── Network Security
+├── Vulnerability Assessment
+└── Exploit Development
 ```
 
 <div align="center">
@@ -88,30 +90,38 @@ SYSTEM CAPABILITIES:
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" title="Git">
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+ACCESSING+ACTIVE+OPERATIONS..." alt="Active Operations" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+ACCESSING+CLASSIFIED+OPERATIONS..." alt="Active Operations" />
 
-```diff
-> enumerate --active-operations --verbose
+```bash
+ALTER:~# ls -la /opt/classified_projects/
 
-@@ CLASSIFIED OPERATIONS @@
+#!/bin/bash
+# TOP SECRET - AUTHORIZED ACCESS ONLY
 
-! [OPERATION ALPHA] Web Vulnerability Scanner
-+ Status: [■■■■■■■□□□] 70%
-- Description: Automated tool to detect XSS, SQLi, CSRF vulnerabilities in web applications
-- Primary Technologies: Python, JavaScript, APIs
-- Target Completion: Q2 2025
+cat << "EOF"
+[!] CLASSIFIED OPERATIONS DETECTED [!]
 
-! [OPERATION BETA] NAP Auth System
-+ Status: [■■■■■■■■□□] 80%
-- Description: Next-gen authentication using behavioral biometrics with zero-trust architecture
-- Primary Technologies: React.js, Node.js, MongoDB, JWT
-- Target Completion: Q3 2025
+┌──[OPERATION ALPHA]
+│   Web Vulnerability Scanner
+├── STATUS: ACTIVE
+├── DESCRIPTION: Advanced tool to detect XSS, SQLi, CSRF vulnerabilities 
+│   in web applications with automated exploit generation
+└── TECH: Python, JavaScript, APIs
 
-! [OPERATION GAMMA] AI Security Tools
-+ Status: [■■■■■□□□□□] 50%
-- Description: Harnessing AI/ML to enhance security posture and threat detection
-- Primary Technologies: Python, TensorFlow, AWS
-- Target Completion: Q4 2025
+┌──[OPERATION BETA]
+│   NAP Auth System
+├── STATUS: ACTIVE
+├── DESCRIPTION: Next-gen authentication using behavioral biometrics
+│   with zero-trust architecture implementation
+└── TECH: React.js, Node.js, MongoDB, JWT
+
+┌──[OPERATION GAMMA]
+│   AI Security Tools
+├── STATUS: IN PROGRESS
+├── DESCRIPTION: Harnessing AI/ML to enhance security posture
+│   and threat detection with real-time response capabilities
+└── TECH: Python, TensorFlow, AWS
+EOF
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+GENERATING+PERFORMANCE+METRICS..." alt="Performance Metrics" />
@@ -147,7 +157,7 @@ SYSTEM CAPABILITIES:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%3E%3E+CONNECTION+TIMEOUT+IMMINENT;%3E%3E+TERMINAL+SESSION+EXPIRING;%3E%3E+REESTABLISH+CONNECTION+BY+FOLLOWING+ABOVE+CHANNELS" alt="Session Expiring" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%3E%3E+WARNING:+SESSION+TIMEOUT+IMMINENT;%3E%3E+CONNECTION+BEING+TRACED;%3E%3E+REESTABLISH+SECURE+CONNECTION+VIA+CHANNELS+ABOVE" alt="Session Warning" />
   
   <img src="https://profile-counter.glitch.me/pratikacharya1234/count.svg" alt="Visitor Count" />
 </div>
