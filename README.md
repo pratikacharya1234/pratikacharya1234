@@ -1,66 +1,79 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=100&lines=%E2%96%88+ACCESS+GRANTED+%E2%96%88;%E2%96%88+TERMINAL+BREACH+SUCCESSFUL+%E2%96%88;%E2%96%88+ROOT+ACCESS+ACQUIRED+%E2%96%88" alt="Terminal Breach" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=1&color=FF0000&background=000000&center=true&vCenter=true&repeat=false&width=900&height=60&lines=!++WARNING:+HIGH+SECURITY+BREACH+DETECTED+!" alt="Warning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=1000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=%3E%3E+SYSTEM+BREACH+INITIATED;%3E%3E+ACCESSING+MAIN+TERMINAL..." alt="System Breach" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=700&lines=PRATIK+ACHARYA" alt="PRATIK ACHARYA" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+COMPLETE" alt="Loading Bar" />
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=4000&pause=300&color=FF0000&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=100&lines=%3E%3E+ACCESS+GRANTED;%3E%3E+ROOT+PRIVILEGES+OBTAINED" alt="Access Granted" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=300&color=F70000&center=true&vCenter=true&random=false&width=600&lines=%E2%9A%A0%EF%B8%8F+FULL+STACK+DEVELOPER;%E2%9A%A0%EF%B8%8F+SECURITY+SPECIALIST;%E2%9A%A0%EF%B8%8F+SYSTEM+INFILTRATOR;%E2%9A%A0%EF%B8%8F+NETWORK+PENETRATOR" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&random=false&width=700&lines=%3E%3E+PRATIK+ACHARYA" alt="PRATIK ACHARYA" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=500&color=00AAFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%3E%3E+FULL+STACK+DEVELOPER;%3E%3E+SECURITY+SPECIALIST;%3E%3E+CS+STUDENT" alt="Roles" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-  
-  ```diff
-  + SYSTEM INFILTRATION IN PROGRESS +
-  - FIREWALL BYPASSED -
-  ! DEPLOYING PAYLOAD !
-  ```
-  
-  <img src="https://media.giphy.com/media/hRU3sKTttXbJDuPCsu/giphy.gif" width="320" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QTmfvUZ0zXg0hHnoQm/giphy.gif" width="32" height="32">
-  <span style="color:#FF0000"> SYSTEM COMPROMISED </span>
-  <img src="https://media.giphy.com/media/QTmfvUZ0zXg0hHnoQm/giphy.gif" width="32" height="32">
-</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+RUNNING+SYSTEM+DIAGNOSTICS..." alt="System Diagnostics" />
 
 ```css
-[~] Accessing Main Terminal...
-[~] Establishing Encrypted Connection...
-[+] Connection Established!
-[+] User Authentication: SUCCESSFUL
-[+] Privilege Escalation: ROOT ACCESS GRANTED
+> shell_access --secure --user="root" --target="profile"
+> executing command...
+
+[~] Initializing secure shell...
+[~] Bypassing security protocols...
+[~] Running system diagnostics...
+[~] Decrypting user profile...
+[+] Shell access granted!
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  USER PROFILE: PRATIK ACHARYA                                                ║
-║  LOCATION: [REDACTED]                                                        ║
-║  SECURITY LEVEL: MAXIMUM                                                     ║
-║  SYSTEM STATUS: COMPROMISED                                                  ║
+║  USER IDENTIFIED: PRATIK ACHARYA                                             ║
+║  STATUS: ACTIVE                                                              ║
+║  SECURITY CLEARANCE: LEVEL 5                                                 ║
+║  LOCATION: [DATA ENCRYPTED]                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-## <span style="color:#00FF00">// TECHNICAL ARSENAL //</span>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+RETRIEVING+TECHNICAL+ARSENAL..." alt="Tech Arsenal" />
 
 ```yaml
-ATTACK VECTORS:
-  - languages: [JavaScript, Python, Java, C++, HTML/CSS]
-  - frontend: [React.js, TailwindCSS, Next.js, Redux]
-  - backend: [Node.js, Express.js, Django, Flask]
-  - databases: [MongoDB, MySQL, PostgreSQL, Firebase]
-  - tools: [Docker, Kubernetes, AWS, Git, Linux]
-  - security: [Penetration Testing, Vulnerability Assessment, OWASP]
+> cat technical_capabilities.yml
+
+SYSTEM CAPABILITIES:
+  LANGUAGES:
+    - JavaScript [■■■■■■■■■■] 100%
+    - Python     [■■■■■■■■■□] 90%
+    - Java       [■■■■■■■□□□] 70%
+    - C++        [■■■■■■□□□□] 60%
+    - HTML/CSS   [■■■■■■■■■■] 100%
+  
+  FRAMEWORKS:
+    - React.js   [■■■■■■■■■□] 90%
+    - Node.js    [■■■■■■■■■□] 90%
+    - Express    [■■■■■■■■□□] 80%
+    - Django     [■■■■■■□□□□] 60%
+    - TailwindCSS[■■■■■■■■■■] 100%
+  
+  DATABASES:
+    - MongoDB    [■■■■■■■■□□] 80%
+    - MySQL      [■■■■■■■□□□] 70%
+    - PostgreSQL [■■■■■■□□□□] 60%
+    - Firebase   [■■■■■■■■□□] 80%
+  
+  TOOLS:
+    - Git        [■■■■■■■■■□] 90%
+    - Docker     [■■■■■■■□□□] 70%
+    - AWS        [■■■■■■□□□□] 60%
+    - Linux      [■■■■■■■■□□] 80%
+  
+  SECURITY:
+    - Web Security         [■■■■■■■■■□] 90%
+    - Penetration Testing  [■■■■■■■□□□] 70%
+    - Network Security     [■■■■■■□□□□] 60%
 ```
 
 <div align="center">
@@ -75,92 +88,75 @@ ATTACK VECTORS:
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" title="Git">
 </div>
 
-## <span style="color:#FF0000">// BREACH OPERATIONS //</span>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+ACCESSING+ACTIVE+OPERATIONS..." alt="Active Operations" />
 
 ```diff
-@@ ACTIVE PROJECTS @@
+> enumerate --active-operations --verbose
 
-! [PROJECT ALPHA] Web Vulnerability Scanner
+@@ CLASSIFIED OPERATIONS @@
+
+! [OPERATION ALPHA] Web Vulnerability Scanner
 + Status: [■■■■■■■□□□] 70%
-- Description: Automated reconnaissance tool for vulnerability assessment
-- Stack: Python, JavaScript, Security APIs
+- Description: Automated tool to detect XSS, SQLi, CSRF vulnerabilities in web applications
+- Primary Technologies: Python, JavaScript, APIs
+- Target Completion: Q2 2025
 
-! [PROJECT BETA] NAP Auth System
+! [OPERATION BETA] NAP Auth System
 + Status: [■■■■■■■■□□] 80%
-- Description: Behavioral biometric authentication system with zero-trust architecture
-- Stack: React.js, Node.js, MongoDB, JWT
+- Description: Next-gen authentication using behavioral biometrics with zero-trust architecture
+- Primary Technologies: React.js, Node.js, MongoDB, JWT
+- Target Completion: Q3 2025
 
-! [PROJECT GAMMA] AI-Powered Exploitation Tools
+! [OPERATION GAMMA] AI Security Tools
 + Status: [■■■■■□□□□□] 50%
-- Description: Advanced AI-driven penetration testing toolkit
-- Stack: Python, TensorFlow, REST APIs
-
-! [PROJECT DELTA] Secure Communication Channel
-+ Status: [■■■■■■■■■□] 90% 
-- Description: End-to-end encrypted messaging platform with zero knowledge proof
-- Stack: React Native, Firebase, WebRTC
+- Description: Harnessing AI/ML to enhance security posture and threat detection
+- Primary Technologies: Python, TensorFlow, AWS
+- Target Completion: Q4 2025
 ```
 
-## <span style="color:#00FFFF">// INTRUSION METRICS //</span>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+GENERATING+PERFORMANCE+METRICS..." alt="Performance Metrics" />
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pratikacharya1234&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikacharya1234&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img width="800em" src="https://github-profile-trophy.vercel.app/?username=pratikacharya1234&theme=matrix&margin-w=15&margin-h=15&column=7&no-frame=true"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+MONITORING+NETWORK+ACTIVITY..." alt="Network Activity" />
 
 <div align="center">
-
-```diff
-! NETWORK ACTIVITY DETECTED !
-```
-
   <img src="https://github.com/pratikacharya1234/pratikacharya1234/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-## <span style="color:#00FF00">// COMMUNICATION PROTOCOLS //</span>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%3E%3E+ESTABLISHING+SECURE+COMMUNICATION+CHANNELS..." alt="Secure Channels" />
 
 <div align="center">
   <a href="mailto:pratikacharya.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-ENCRYPTED_EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-%3E%3E+SECURE+EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black">
   </a>
   <a href="https://linkedin.com/in/pratikacharya1234">
-    <img src="https://img.shields.io/badge/-SECURE_CHANNEL-00FF00?style=for-the-badge&logo=linkedin&logoColor=black">
+    <img src="https://img.shields.io/badge/-%3E%3E+LINKEDIN+PROTOCOL-00FF00?style=for-the-badge&logo=linkedin&logoColor=black">
   </a>
   <a href="https://twitter.com/pratik_acharya_">
-    <img src="https://img.shields.io/badge/-BROADCAST_SIGNAL-00AAFF?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/-%3E%3E+TWITTER+CHANNEL-00FF00?style=for-the-badge&logo=twitter&logoColor=black">
   </a>
   <a href="https://pratik242.vercel.app">
-    <img src="https://img.shields.io/badge/-COMMAND_CENTER-FF00FF?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-%3E%3E+COMMAND+CENTER-00FF00?style=for-the-badge&logo=vercel&logoColor=black">
   </a>
-</div>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                        SECURITY MEASURES IN PLACE                             │
-│                        ACCESS AT YOUR OWN RISK                               │
-│                     CONNECTION LOGGING ACTIVATED                             │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=TERMINAL+SESSION+WILL+SELF-DESTRUCT+IN+T-MINUS+10+SECONDS...;DEPLOY+COUNTERMEASURES+IMMEDIATELY...;SYSTEM+LOCKDOWN+INITIATED...;CONNECTION+TERMINATED..." alt="Self Destruct" />
-  
-  <img src="https://profile-counter.glitch.me/pratikacharya1234/count.svg" alt="Visitor Count" />
-
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%3E%3E+CONNECTION+TIMEOUT+IMMINENT;%3E%3E+TERMINAL+SESSION+EXPIRING;%3E%3E+REESTABLISH+CONNECTION+BY+FOLLOWING+ABOVE+CHANNELS" alt="Session Expiring" />
+  
+  <img src="https://profile-counter.glitch.me/pratikacharya1234/count.svg" alt="Visitor Count" />
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&random=false&width=850&lines=%3E%3E+CONNECTION+TERMINATED" alt="Connection Terminated" />
+
 <!-- 
-To enable the snake animation:
-1. Create a new repo or use your profile repo
-2. Add a GitHub Action workflow file:
-   Create a .github/workflows/snake.yml file with:
+Add the GitHub Snake Animation:
+1. Create .github/workflows/snake.yml with:
 
 name: Generate Snake Animation
 
