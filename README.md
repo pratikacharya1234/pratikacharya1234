@@ -64,8 +64,7 @@
 │
 ├── JavaScript
 ├── Python
-├── Java
-├── C++
+├── C
 └── HTML/CSS
 
 ┌─[FRAMEWORKS]
@@ -79,24 +78,22 @@
 ┌─[DATABASES]
 │
 ├── MongoDB
-├── MySQL
-├── PostgreSQL
-└── Firebase
+└── MySQL
+
+
 
 ┌─[TOOLS]
 │
 ├── Git
-├── Docker
-├── AWS
-└── Linux
+├── Vercel
+└── Github
 
 ┌─[SECURITY]
 │
-├── Penetration Testing
 ├── Web Application Security
 ├── Network Security
-├── Vulnerability Research
-└── Exploit Development[0m
+└── Vulnerability Research
+
 ```
 
 <div align="center">
@@ -194,7 +191,7 @@
 ```
 
 <div align="center">
-  <a href="mailto:pratikacharya.dev@gmail.com">
+  <a href="mailto:pratikacharya468@gmail.com">
     <img src="https://img.shields.io/badge/-EMAIL+VECTOR-002800?style=for-the-badge&logo=gmail&logoColor=00FF00">
   </a>
   <a href="https://linkedin.com/in/pratikacharya1234">
