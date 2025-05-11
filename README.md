@@ -27,6 +27,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+FULL+STACK+DEVELOPER;%3E+SECURITY+SPECIALIST;%3E+PENETRATION+TESTER" alt="Roles" />
 </div>
 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="filter: hue-rotate(120deg);">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=300&color=00FF00&vCenter=true&repeat=false&random=false&width=800&lines=%5Balter%40system%5D%24+./hack_github.sh+--target=pratikacharya1234" alt="Running Script" />
