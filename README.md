@@ -1,90 +1,106 @@
-<!--
-██▓▒░ Pratik Acharya ░▒▓██
--->
+# Pratik Acharya
+**Computer Science Student | Full-Stack Developer**
 
-```
-           _.-'''''-._
-         .'  _     _  '.
-        /   (_)   (_)   \
-       |  ,           ,  |
-       |  \`.       .`/  |
-        \  '.`'""'`.'  /
-         '.  `'---'`  .'
-           '-._____.-'
-```
+Currently pursuing Bachelor of Science in Computer Science at Weber State University, Utah
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=36FFA6&center=true&vCenter=true&width=440&lines=Access+Granted...+Welcome+to+the+Matrix;Initializing+Pratik+Acharya's+Profile;Hacker+at+Heart+%F0%9F%94%91;LEVEL+UP!" alt="Typing SVG" />
-</h1>
+## Technical Skills
 
-<pre>
-<span style="color:#36FFA6;">root@pratikacharya1234</span>:~$ <span style="color:#00BFFF;">cat /etc/profile.txt</span>
-<span style="color:#FF69B4; font-weight:bold;">Pratik Acharya</span>
-<span style="color:#FFD700;">Bachelor of Science in Computer Science</span>
-<span style="color:#FFA500;">Weber State University, Ogden, Utah</span>
-<span style="color:#36FFA6;">Origin: Nepal 🇳🇵  |  Current: Utah 🇺🇸</span>
-<span style="color:#FF6347;">self-taught | logic-building: {weak} ➡️ {improving}</span>
-<span style="color:#00BFFF;">"I hack, therefore I am."</span>
-</pre>
+**Programming Languages:**
+- Python (Data Structures, Algorithms, Backend Development)
+- C/C++ (System Programming, Memory Management)
+- JavaScript (Frontend Development, DOM Manipulation)
+
+**Web Technologies:**
+- HTML5, CSS3
+- React.js
+- RESTful APIs
+- Responsive Web Design
+
+**Tools & Technologies:**
+- Git/GitHub (Version Control)
+- VS Code, IntelliJ IDEA
+- Linux/Windows Command Line
+- Database Management (SQL basics)
+
+## Featured Projects
+
+### Personal Portfolio Website
+**Tech Stack:** HTML, CSS, JavaScript, React  
+**Live Demo:** https://pratik242.vercel.app/  
+- Responsive design with modern UI/UX
+- Interactive components and smooth animations
+- Cross-browser compatibility
+- Mobile-first approach
+
+### Academic Projects
+- **Data Structures Implementation** (C++) - Custom implementations of linked lists, trees, and sorting algorithms
+- **Web Applications** (JavaScript) - Interactive web tools and games
+- **Python Scripts** - Automation tools and data processing applications
+
+## Professional Experience
+
+**Self-Taught Developer** | 2022 - Present
+- Developed strong programming fundamentals through independent learning
+- Built multiple projects demonstrating practical application of CS concepts
+- Continuously expanding technical knowledge through online courses and documentation
+
+**Computer Science Student** | Weber State University | 2023 - Present
+- Maintaining strong academic performance in core CS subjects
+- Active participation in coding assignments and group projects
+- Focus on algorithms, data structures, and software engineering principles
+
+## What I Bring to Your Team
+
+- **Problem-Solving Mindset:** Approach challenges systematically and persistently
+- **Self-Motivated Learning:** Proven ability to master new technologies independently
+- **Clean Code Practices:** Write readable, maintainable, and well-documented code
+- **Adaptability:** Quick to learn new frameworks and programming languages
+- **Team Collaboration:** Experience working on group projects and code reviews
+
+## Academic Background
+
+**Bachelor of Science in Computer Science**  
+Weber State University, Ogden, Utah  
+Expected Graduation: 2026
+
+**Core Coursework:**
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Software Engineering
+- Computer Systems Architecture
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikacharya1234&show_icons=true&theme=professional&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikacharya1234&layout=compact&theme=professional&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikacharya1234&theme=professional&hide_border=true)
+
+## Current Learning Focus
+
+- Advanced JavaScript frameworks (Node.js, Express)
+- Database design and optimization
+- Software development lifecycle
+- System design principles
+- Open source contribution
+
+## Professional Goals
+
+- Seeking internship opportunities in software development
+- Interested in full-stack development roles
+- Passionate about building scalable web applications
+- Committed to continuous learning and professional growth
+
+## Let's Connect
+
+📧 **Email:** pratikacharya468@gmail.com  
+🌐 **Portfolio:** https://pratik242.vercel.app/  
+💻 **GitHub:** [@pratikacharya1234](https://github.com/pratikacharya1234)
 
 ---
 
-### 🕶️ HACKING PROFILE
+**Available for internships and entry-level software development positions**
 
-```
-[+] Target: github.com/pratikacharya1234
-[+] Gaining Access...
-[+] Access Level: <root>
-[+] Status: ACTIVE
-```
-
-- 🏴‍☠️  Self-learned, terminal dweller, caffeine-powered
-- 🎮  Gaming spirit, always on a side quest
-- 🔗  [Copilot Session](https://github.com/copilot/c/dbacdd16-aac2-4ac3-97bf-6903304eb224)
-- 💥  From the Himalayas to the Matrix
-- 📧  mail: pratikacharya468@gmail.com
-
-
-### 💻 TOOLS & ARSENAL
-```bash
-#> ls ~/skills
-Python*      Bash*        Linux*       JavaScript*
-HTML/CSS*    C/C++*       WebSec*      Git/GitHub*
-#> echo "Logic Building" >> /dev/upgrade.log
-```
-
-### 🧑‍💻 CURRENT PROJECTS
-```bash
-#> tree ~/projects
-├── [Web-Vulnerability-Scanner](https://github.com/pratikacharya1234/Web-Vulnerability-Scanner)   # Recon the web
-├── [TEMPURA](https://github.com/pratikacharya1234/TEMPURA)                                       # Automation flavors
-├── [NSA-Weber](https://github.com/pratikacharya1234/NSA-Weber)                                   # Security ops
-├── [extension](https://github.com/pratikacharya1234/extension)                                   # Browser hacks
-├── [pratikacharya1234.github.io](https://github.com/pratikacharya1234/pratikacharya1234.github.io) # Personal web node
-```
-
----
-
-### 🖤 SYSTEM STATUS
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pratikacharya1234&theme=matrix&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikacharya1234&layout=compact&theme=radical" />
-</div>
-
----
-
-### 💬 CONTACT
-```
-[+] Contact established:
-[+] Email: pratikacharya468@gmail.com
-```
-[![Gmail Badge](https://img.shields.io/badge/-pratikacharya468@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikacharya468@gmail.com)](mailto:pratikacharya468@gmail.com)
-
-```bash
-# Hacker wisdom:
-echo "There is no patch for curiosity. | Try. Fail. Exploit. Repeat."
-```
-
-<!--
-Profile README by Copilot, ultra-hacker themed for Pratik Acharya. SYSTEM: ACTIVE.
--->
+*"Passionate computer science student with hands-on programming experience and a strong foundation in software development principles. Ready to contribute to your team while continuing to learn and grow."*
