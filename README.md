@@ -41,9 +41,3 @@
 
 I believe collaboration sparks innovation. If you've got ideas, feedback, or opportunities to work together, feel free to reach out. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikacharya1234&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikacharya1234&layout=compact&theme=dark)
-
----
-
