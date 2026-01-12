@@ -47,24 +47,3 @@ I believe collaboration sparks innovation. If you've got ideas, feedback, or opp
 
 ---
 
-## Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikacharya1234/pratikacharya1234/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikacharya1234/pratikacharya1234/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pratikacharya1234/pratikacharya1234/output/github-snake.svg" />
-</picture>
-
----
-
-## Philosophy
-
-> *"The problem defines the tool, not past experience."*
-
-Whether it's crafting software or solving everyday challenges, I believe in staying flexible and open to exploring new solutions. 
-
----
-
-## Thanks for stopping by!
-
-Feel free to browse my repositories, star your favorites, or drop me a message. Let's build something amazing together!
