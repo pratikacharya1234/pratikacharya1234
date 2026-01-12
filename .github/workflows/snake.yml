@@ -16,9 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with: 
           github_user_name: pratikacharya1234
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg? palette=github-dark
+          outputs: dist/github-snake.svg,dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
