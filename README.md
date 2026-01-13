@@ -8,7 +8,6 @@
 
 - Programming is my tool of choice for bringing ideas to life and overcoming challenges. 
 
-- **Versatile Tech Stack:** I'm not tied to specific tools or technologies. One day, I'm coding in TypeScript, and the next, I'm exploring Python. For me, the nature of the problem defines the tools I use, not my past experiences.
 
 ---
 
